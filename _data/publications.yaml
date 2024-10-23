@@ -7,7 +7,7 @@ papers:
     selected: y
 
   - title: "Feeding Habits of Japanese Serow in a Warm–Temperate, Low-Elevation, Evergreen Broad-Leaved Shrub-Dominated Forest"
-    authors: "Nami Maeda, Seungyun Baek, Kahoko Tochigi, Tomoko Naganuma, Shinsuke Koike"
+    authors: "Nami Maeda, <b>Seungyun Baek</b>, Kahoko Tochigi, Tomoko Naganuma, Shinsuke Koike"
     venue: "Mammal Study"
     paper_pdf: https://bioone.org/journalArticle/Download?urlId=10.3106%2Fms2023-0045
     selected: n
