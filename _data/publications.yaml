@@ -1,10 +1,51 @@
 papers:
+  - title: "Large terrestrial mammals resurging in a depopulating country"
+    authors: "<b>Seung-Yun Baek</b>, Tatsuya Amano, Munemitsu Akasaka, Shinsuke Koike"
+    venue: "ResearchSquare preprint"
+    paper_pdf: https://www.researchsquare.com/article/rs-4937471/v1
+    statsml: y
+    rev: y
+
+  - title: "Risky behavior differs between sex and season in a landscape fragmented by roads"
+    authors: "<b>Seung-Yun Baek</b>, Andreas Zedrosser, Koji Yamazaki, Yuske Goto, Naoki Takekoshi, Shinsuke Koike"
+    statsml: y
+    rev: y
+
+  - title: "Feeding Habits of Japanese Serow in a Warm–Temperate, Low-Elevation, Evergreen Broad-Leaved Shrub-Dominated Forest"
+    authors: "Nami Maeda, <b>Seung-Yun Baek</b>, Kahoko Tochigi, Tomoko Naganuma, Shinsuke Koike"
+    venue: "Mammal Study"
+    paper_pdf: https://bioone.org/journals/mammal-study/volume-49/issue-4/ms2023-0045/Feeding-Habits-of-Japanese-Serow-in-a-WarmTemperate-Low-Elevation/10.3106/ms2023-0045.full
+    selected: n
 
   - title: "Response to human-modified landscape of an apex consumer: Sex- and season-related variations in road selection and movement pattern"
     authors: "<b>Seung-Yun Baek</b>, Aya Shimazaki, Andreas Zedrosser, Tomoko Naganuma, Koji Yamazaki, Shinsuke Koike"
     venue: "Global Ecology and Conservation"
     paper_pdf: https://www.sciencedirect.com/science/article/pii/S235198942300238X/pdfft?md5=0178c5cbf00e5a30476820e2bd5c19af&pid=1-s2.0-S235198942300238X-main.pdf
     selected: y
+
+  - title: "Conditions affecting ant nesting in stumps in a temperate coniferous planted forest"
+    authors: "Mii Tanaka, <b>Seung-Yun Baek</b>, Kahoko Tochigi, Tomoko Naganuma, Akino Inagaki, Bainah Sari Dewi, Shinsuke Koike"
+    venue: "Forest Ecology and Management"
+    paper_pdf: https://www.sciencedirect.com/science/article/pii/S0378112723002104?via%3Dihub
+    selected: n
+
+  - title: "The effect of decreasing human activity from COVID‐19 on the foraging of fallen fruit by omnivores"
+    authors: "Shigeru Osugi, <b>Seung-Yun Baek</b>, Tomoko Naganuma, Kahoko Tochigi, Tomoko Naganuma, Max Allen, Shinsuke Koike"
+    venue: "Forest Ecology and Management"
+    paper_pdf: https://www.sciencedirect.com/science/article/pii/S0378112723002104?via%3Dihub
+    selected: n
+
+  - title: "Growth of non‐English‐language literature on biodiversity conservation"
+    authors: "Shawan Chowdhury, ... <b>Seung-Yun Baek</b>, ..., Tatsuya Amano"
+    venue: "Conservation Biology"
+    paper_pdf: https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.13883
+    selected: n
+
+  - title: "Factors Affecting Pre-Denning Activity in Asian Black Bears"
+    authors: "<b>Seung-Yun Baek</b>, Tadashi Iwasaki, Koji Yamazaki, Tomoko Naganuma, Akino Inagaki, Kahoko Tochigi, Maximilian L. Allen, Chinatsu Kozakai, Shinsuke Koike"
+    venue: "Mammal Study"
+    paper_pdf: https://bioone.org/journalArticle/Download?urlId=10.3106%2Fms2020-0101
+    selected: n
 
   - title: "Feeding Habits of Japanese Serow in a Warm–Temperate, Low-Elevation, Evergreen Broad-Leaved Shrub-Dominated Forest"
     authors: "Nami Maeda, <b>Seungyun Baek</b>, Kahoko Tochigi, Tomoko Naganuma, Shinsuke Koike"
