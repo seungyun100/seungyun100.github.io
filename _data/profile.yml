@@ -48,40 +48,30 @@ education:
 - name: Tokyo University of Agriculture and Technology
   logo: /assets/images/badges/noukou.jpg
   position: >- 
-    M.S., Digital Analytics <a href="https://shiwonkim.github.io/uploads/Masters_Thesis.pdf" target="_blank">[Thesis]</a> <br/>
+    Ph.D., Animal Ecology
+    # Ph.D., Digital Analytics <a href="https://shiwonkim.github.io/uploads/Masters_Thesis.pdf" target="_blank">[Thesis]</a> <br/>
   description:
-    Advised by Prof. Yu Rang Park
-  date: Mar. 2023 - Aug. 2025
-  place: Seoul, Korea
-- name: Yonsei University
-  logo: /assets/images/badges/Yonsei.png
-  position: B.B.A., Business Administration
-  date: Mar. 2017 - Feb. 2023
-  place: Seoul, Korea
+    Advised by Prof. Shinsuke Koike
+  date: Apr. 2022 - Mar. 2025
+  place: Tokyo, Japan
+- name: Tokyo University of Agriculture and Technology
+  logo: /assets/images/badges/noukou.jpg
+  position: M.S., Animal Ecology
+  date: Apr. 2020 - Mar. 2022
+  place: Tokyo, Japan
+  - name: Jeju National University
+  logo: /assets/images/badges/noukou.jpg
+  position: B.S., Biology
+  date: Mar. 2013 - Aug. 2019
+  place: Jeju, Korea
 
 experience:
-- name: Yonsei University Health System
-  logo: /assets/images/badges/Yonsei.png
+- name: Tokyo University of Agriculture and Technology
+  logo: /assets/images/badges/noukou.jpg
   position: >- 
-    Research Assistant in AI
-  date: Jul. 2025 - Present
-  place: Seoul, Korea
-- name: Digital Healthcare Lab
-  logo: /assets/images/badges/Yonsei.png
-  position: >- 
-    Graduate Research Assistant <br/>
-  description:
-    Advised by Prof. Yu Rang Park
-  date: Mar. 2023 - Jun. 2025
-  place: Seoul, Korea
-- name: Carnegie Mellon University
-  logo: /assets/images/badges/CMU.jpg
-  position: >- 
-    Visiting Scholar, Computer Science <br/>
-  description:
-    Korean Government Fellowship
-  date: Aug. 2024 - Feb. 2025
-  place: Pittsburgh, PA
+    Assistant Professor (postdoc)
+  date: Apr. 2025 - Present
+  place: Tokyo, Japan
 - name: University of Washington
   logo: /assets/images/badges/UW_gold.png
   position: >- 
