@@ -1,32 +1,43 @@
-- date_start: "2026-03"
-  date_end: ""
-  title: "M.S. / Research Track (예시)"
-  org: "Yonsei University"
-  location: "Seoul, KR"
+- date_start: "2025-04"
+  date_end: "Present"
+  title: "Assistant professor (Postdoc)"
+  org: "Tokyo University of Agriculture and Technology"
+  location: "Tokyo, JP"
+  type: "experience"
+  tags: ["Animal ecology", "Movement ecology"]
+  bullets:
+    - "Research on XX."
+    - "XX"
+
+- date_start: "2022-04"
+  date_end: "2025-03"
+  title: "Ph.D. / Research Track (예시)"
+  org: "Tokyo University of Agriculture and Technology"
+  location: "Tokyo, JP"
   type: "education"
-  tags: ["Medical AI", "Continual Learning"]
+  tags: ["Animal ecology"]
   bullets:
-    - "Research on continual learning for medical imaging."
-    - "Built evaluation pipelines and curated datasets."
+    - "Research on XX."
+    - "XX"
 
-- date_start: "2025-09"
-  date_end: "2026-02"
-  title: "Research Assistant"
-  org: "Yonsei University Health System"
-  location: "Seoul, KR"
-  type: "experience"
-  tags: ["Medical Informatics", "Deep Learning"]
+- date_start: "2020-04"
+  date_end: "2022-03"
+  title: "M.S"
+  org: "Tokyo University of Agriculture and Technology"
+  location: "Tokyo, JP"
+  type: "education"
+  tags: ["Animal ecology"]
   bullets:
-    - "Developed models for multi-joint arthropathy grading."
-    - "Drafted manuscripts and prepared conference submissions."
+    - "Research on XX."
+    - "XX"
 
-- date_start: "2024-06"
-  date_end: "2024-12"
-  title: "Visiting / Program Participant"
-  org: "CMU AI Intensive Education Program"
-  location: "Pittsburgh, PA (Remote/On-site)"
-  type: "experience"
-  tags: ["ML Systems", "Research"]
+- date_start: "2013-03"
+  date_end: "2019-08"
+  title: "B.S. in Biology"
+  org: "Jeju National University"
+  location: "Jeju, KR"
+  type: "education"
+  tags: ["Biology"]
   bullets:
-    - "Implemented project experiments and wrote weekly reports."
-    - "Collaborated with peers on model training and analysis."
+    - "Research on XX."
+    - "XX"
