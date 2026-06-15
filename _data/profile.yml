@@ -46,7 +46,7 @@ portrait_url: /assets/images/photos/face_seungyun.jpg
 
 education:
 - name: Tokyo University of Agriculture and Technology
-  logo: /assets/images/badges/noukou.jpg
+  logo: /assets/images/badges/tuat_logo.png
   position: >- 
     Ph.D., Animal Ecology
     # Ph.D., Digital Analytics <a href="https://shiwonkim.github.io/uploads/Masters_Thesis.pdf" target="_blank">[Thesis]</a> <br/>
@@ -55,7 +55,7 @@ education:
   date: Apr. 2022 - Mar. 2025
   place: Tokyo, Japan
 - name: Tokyo University of Agriculture and Technology
-  logo: /assets/images/badges/noukou.jpg
+  logo: /assets/images/badges/tuat_logo.png
   position: M.S., Animal Ecology
   date: Apr. 2020 - Mar. 2022
   place: Tokyo, Japan
@@ -67,7 +67,7 @@ education:
 
 experience:
 - name: Tokyo University of Agriculture and Technology
-  logo: /assets/images/badges/noukou.jpg
+  logo: /assets/images/badges/tuat_logo.png
   position: >- 
     Assistant Professor (postdoc)
   date: Apr. 2025 - Present
