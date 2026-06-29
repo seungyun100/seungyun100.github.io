@@ -71,12 +71,20 @@ experience:
     Assistant Professor (postdoc)
   date: Apr. 2025 - Present
   place: Tokyo, Japan
+
 - name: University of Washington
   logo: /assets/images/badges/UW_gold.png
   position: >- 
-    Undergraduate Exchange Student
-  date: Sep. 2018 - Jun. 2019
-  place: Seattle, WA
+    Visiting Researcher
+  date: Feb. 2025
+  place: Seattle, Washington
+  
+- name: University of South-Eastern Norway
+  logo: /assets/images/badges/USN.png
+  position: >- 
+    Visiting Researcher
+  date: Mar. 2024 - Jun. 2024
+  place: Bø, Norway
 
 # awards:
 # - name: Award Name 2
