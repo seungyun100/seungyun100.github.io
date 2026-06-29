@@ -91,7 +91,8 @@ body_attr: >-
         </div>
       </div>
 
-      <!-- TAG MULTI-FILTER -->
+      <!-- TAG MULTI-FILTER (hidden for now — uncomment and replace with your own keywords to re-enable) -->
+      {% comment %}
       <div class="mb-3 d-flex flex-wrap align-items-center">
         <div id="tagContainer" class="d-flex flex-wrap">
           <div class="tag-filter" onclick="toggleTagFilter('medical-imaging')"># medical imaging</div>
@@ -109,8 +110,12 @@ body_attr: >-
           <!-- More tags -->
         </div>
       </div>
+      {% endcomment %}
 
+      <!-- "My Research" intro box (hidden for now — uncomment to re-enable) -->
+      {% comment %}
       {% include widgets/research_brief.html %}
+      {% endcomment %}
     </div>
   </div>
 
