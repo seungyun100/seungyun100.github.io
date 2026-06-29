@@ -64,21 +64,33 @@
             /* border-left-color: rgb(91, 192, 222); */
             border-left-color: #ff6f61;
         }
+
+        /* Landscape 배너 */
+        .home-banner {
+            width: 100%;
+            height: 280px;            /* 배너 높이 — 취향껏 조절 */
+            overflow: hidden;
+            margin-bottom: 1.5rem;
+        }
+        .home-banner img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;        /* 가로 사진을 잘리게 꽉 채움 */
+            object-position: center;  /* 잘리는 위치: center / top / bottom */
+            display: block;
+        }
     </style>
 </head>
 <body class="bg-light" {{ page.body_attr }}>
-   {% include navbar.html %}
+    {% include navbar.html %}
 
-<!-- Landscape 배너 -->
-{% if page.banner %}
-<div class="home-banner">
-    <img src="{{ page.banner | relative_url }}" alt="banner">
-</div>
-{% endif %}
+    <!-- Landscape 배너 -->
+    {% if page.banner %}
+    <div class="home-banner">
+        <img src="{{ page.banner | relative_url }}" alt="banner">
+    </div>
+    {% endif %}
 
-<div class="container" style="max-width: 1700px;">
-    {{content}}
-</div>
     <!-- <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-fluid{% endif %}"> -->
     <div class="container" style="max-width: 1700px;">
         {{content}}
