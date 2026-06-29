@@ -67,7 +67,18 @@
     </style>
 </head>
 <body class="bg-light" {{ page.body_attr }}>
-    {% include navbar.html %}
+   {% include navbar.html %}
+
+<!-- Landscape 배너 -->
+{% if page.banner %}
+<div class="home-banner">
+    <img src="{{ page.banner | relative_url }}" alt="banner">
+</div>
+{% endif %}
+
+<div class="container" style="max-width: 1700px;">
+    {{content}}
+</div>
     <!-- <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-fluid{% endif %}"> -->
     <div class="container" style="max-width: 1700px;">
         {{content}}
